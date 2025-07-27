@@ -1,5 +1,6 @@
  HotelBookingTestAutomation
-📌 Project Overview
+ 
+ 📌 Project Overview
 This is an automation framework built using Selenium WebDriver and TestNG to test the Adactin Hotel Booking web application. The framework follows the Page Object Model (POM) design pattern for better code organization and maintainability.
 
 🔧 Features
@@ -31,7 +32,6 @@ This is an automation framework built using Selenium WebDriver and TestNG to tes
 ├── pom.xml (if using Maven)
 ├── README.md
 └── .gitignore
-
 
 🚀 How to Run
  Clone this repository: git clone https://github.com/your-username/HotelBookingTestAutomation.git
